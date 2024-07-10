@@ -1,7 +1,5 @@
-package br.com.alura.forum_hub.topico;
+package br.com.alura.forum_hub.domain.topico;
 
-
-import jakarta.validation.constraints.NotNull;
 
 public record DadosAtualizacaoTopico(
         String mensagem,
