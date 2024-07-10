@@ -1,0 +1,1 @@
+alter table topicos add status varchar(255) not null;
